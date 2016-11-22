@@ -4,14 +4,12 @@
     <bookmark url="file://$PROJECT_DIR$/p1.py" line="13" mnemonic="9" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f972b158-25b3-427f-b409-0111f2fc0716" name="Default" comment="" />
-    <list id="1824e3a2-b849-4db5-ac5b-f8d50d271207" name="New changelist" comment="New changelist">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/768x576.avi" />
+    <list default="true" id="f972b158-25b3-427f-b409-0111f2fc0716" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="beautif.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="$PROJECT_DIR$/.idea/workspace.xml" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,8 +122,8 @@
       <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.1831396" vertical-offset="1379" max-vertical-offset="1900">
-              <caret line="94" column="0" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.5913978" vertical-offset="1621" max-vertical-offset="1900">
+              <caret line="94" column="5" selection-start-line="94" selection-start-column="5" selection-end-line="94" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -208,8 +206,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="83" />
-    <option name="y" value="81" />
+    <option name="x" value="386" />
+    <option name="y" value="60" />
     <option name="width" value="1053" />
     <option name="height" value="875" />
   </component>
@@ -577,7 +575,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="f972b158-25b3-427f-b409-0111f2fc0716" name="Default" comment="" />
-      <changelist id="1824e3a2-b849-4db5-ac5b-f8d50d271207" name="New changelist" comment="" />
+      <changelist id="" name="New changelist" comment="" />
       <created>1470631499847</created>
       <updated>1470631499847</updated>
     </task>
@@ -637,7 +635,11 @@
       <created>1479794217241</created>
       <updated>1479794217241</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="New changelist">
+      <created>1479794266249</created>
+      <updated>1479794266249</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -661,11 +663,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="83" y="81" width="1053" height="875" extended-state="0" />
+    <frame x="386" y="60" width="1053" height="875" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23854448" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23854448" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="GitLabIntegration" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32823366" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2684284" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32961586" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -676,7 +678,7 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32554516" sideWeight="0.5005025" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31266847" sideWeight="0.49949747" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32749325" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32614556" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32866043" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -706,7 +708,8 @@
     <MESSAGE value="scrapy study" />
     <MESSAGE value="by" />
     <MESSAGE value="CASSANDRA" />
-    <option name="LAST_COMMIT_MESSAGE" value="CASSANDRA" />
+    <MESSAGE value="New changelist" />
+    <option name="LAST_COMMIT_MESSAGE" value="New changelist" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1109,8 +1112,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.1831396" vertical-offset="1379" max-vertical-offset="1900">
-          <caret line="94" column="0" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.5913978" vertical-offset="1621" max-vertical-offset="1900">
+          <caret line="94" column="5" selection-start-line="94" selection-start-column="5" selection-end-line="94" selection-end-column="5" />
           <folding />
         </state>
       </provider>
