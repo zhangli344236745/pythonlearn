@@ -5,10 +5,42 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f972b158-25b3-427f-b409-0111f2fc0716" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/twi/server1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/twi/server2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/twi/server4.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/twi/sever3.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django1/.idea/dataSources.ids" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django1/db.sqlite3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django1/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django1/app1/migrations/0001_initial.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django1/app2/migrations/0001_initial.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django1/app1/migrations/0002_remove_note_user.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django1/app1/migrations/0003_auto_20160825_1253.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django1/app1/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django1/app1/migrations/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django1/app2/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django1/app2/migrations/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django1/django1/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django1/app1/admin.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django1/app1/templates/search/indexes/app1/book_text.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django1/.idea/dataSources.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dictionary.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django1/.idea/django1.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django1/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django1/manage.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django1/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django1/app1/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django1/app2/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django1/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django1/app1/templates/search/indexes/app1/note_text.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django1/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django1/app1/search_indexes.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django1/django1/settings.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django1/app1/tasks.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django1/app1/tests.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django1/django1/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django1/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django1/app1/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django1/app2/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django1/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/django1/django1/wsgi.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="beautif.iws" />
@@ -161,7 +193,7 @@
       <file leaf-file-name="server4.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/twi/server4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.40558293" vertical-offset="0" max-vertical-offset="609">
+            <state vertical-scroll-proportion="0.5" vertical-offset="0" max-vertical-offset="494">
               <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
               <folding>
                 <element signature="e#58#97#0" expanded="true" />
@@ -262,10 +294,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="20" />
-    <option name="y" value="30" />
-    <option name="width" value="1296" />
-    <option name="height" value="1011" />
+    <option name="x" value="119" />
+    <option name="y" value="60" />
+    <option name="width" value="1148" />
+    <option name="height" value="918" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -324,20 +356,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="beautif" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="beautif" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="beautif" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="twi" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -879,7 +897,11 @@
       <created>1484805438789</created>
       <updated>1484805438789</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="v1.0.1">
+      <created>1485245415906</created>
+      <updated>1485245415906</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -903,26 +925,26 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="20" y="30" width="1296" height="1011" extended-state="0" />
-    <editor active="true" />
+    <frame x="119" y="60" width="1148" height="918" extended-state="0" />
+    <editor active="false" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23690204" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="GitLabIntegration" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32573727" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27793297" sideWeight="0.49949747" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32961586" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32953465" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24924622" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3457189" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35137615" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39812332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26773763" sideWeight="0.5005025" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25056946" sideWeight="0.49949747" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28025478" sideWeight="0.49949747" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3253012" sideWeight="0.49949747" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32866043" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -1333,7 +1355,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/twi/server4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.40558293" vertical-offset="0" max-vertical-offset="609">
+        <state vertical-scroll-proportion="0.5" vertical-offset="0" max-vertical-offset="494">
           <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
           <folding>
             <element signature="e#58#97#0" expanded="true" />
